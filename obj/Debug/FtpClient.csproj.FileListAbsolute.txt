@@ -1,0 +1,10 @@
+C:\Code\Util\FtpClient\FtpClient\bin\Debug\FtpClient.dll
+C:\Code\Util\FtpClient\FtpClient\bin\Debug\FtpClient.pdb
+C:\Code\Util\FtpClient\FtpClient\bin\Debug\HtmlAgilityPack.dll
+C:\Code\Util\FtpClient\FtpClient\bin\Debug\HtmlAgilityPack.pdb
+C:\Code\Util\FtpClient\FtpClient\bin\Debug\HtmlAgilityPack.xml
+C:\Code\Util\FtpClient\FtpClient\obj\Debug\FtpClient.csprojAssemblyReference.cache
+C:\Code\Util\FtpClient\FtpClient\obj\Debug\FtpClient.csproj.CoreCompileInputs.cache
+C:\Code\Util\FtpClient\FtpClient\obj\Debug\FtpClient.csproj.CopyComplete
+C:\Code\Util\FtpClient\FtpClient\obj\Debug\FtpClient.dll
+C:\Code\Util\FtpClient\FtpClient\obj\Debug\FtpClient.pdb
